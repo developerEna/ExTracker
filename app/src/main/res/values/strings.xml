@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex Tracker</string>
+    <string name="about_text">Ex Tracker was developed by <b />MENSA-YAWSON DAISY and ADDO LYNN EYRAM AKU.
+        \n\nThe apps interface was built with android studio\'s markup language (XML), complemented with Java for its functionality.
+        \n\nHowever, for the database phase, Firebase was implemented.
+    </string>
+</resources>
